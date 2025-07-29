@@ -94,3 +94,7 @@ body{
     color: gray;
     border: 1px solid gray;
   }
+
+img.gymimg{
+    hight: 1000px;
+}
